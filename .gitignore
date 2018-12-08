@@ -1,2 +1,5 @@
-# Google App Engine generated folder
-appengine-generated/
+*.old
+*.mp3
+*.wav
+mariovsign.png
+*.txt
